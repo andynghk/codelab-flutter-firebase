@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "634066373738",
+    "project_id": "codelab-flutter-firebase-8d4f5",
+    "storage_bucket": "codelab-flutter-firebase-8d4f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634066373738:android:3e945ccc6a75c8faf4ce13",
+        "android_client_info": {
+          "package_name": "com.andynghk.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634066373738-fa01hnn8lap2bebqp3a79h0r0idd6j7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATgfWnlx7BTVzAS1idJMYSatEmummlBtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634066373738-fa01hnn8lap2bebqp3a79h0r0idd6j7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634066373738-ifvobvo3rhc24r1r4u0o5pkkr51hj9i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andynghk.firebaseapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634066373738:android:b0c48ab3c1fe1c0ff4ce13",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634066373738-fa01hnn8lap2bebqp3a79h0r0idd6j7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATgfWnlx7BTVzAS1idJMYSatEmummlBtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634066373738-fa01hnn8lap2bebqp3a79h0r0idd6j7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634066373738-ifvobvo3rhc24r1r4u0o5pkkr51hj9i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andynghk.firebaseapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
